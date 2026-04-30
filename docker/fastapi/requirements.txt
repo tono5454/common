@@ -1,0 +1,4 @@
+robotframework
+openai
+fastapi
+uvicorn
